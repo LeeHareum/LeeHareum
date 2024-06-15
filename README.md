@@ -4,3 +4,5 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{LeeHareum}?pet-id=1" width="1000" height="120"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHareum)](https://github.com/anuraghazra/github-readme-stats)
