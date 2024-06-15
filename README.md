@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hareum's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hareum's%20GitHub🌱%20&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=200)
 
 
 <a href="https://github.com/devxb/gitanimals">
